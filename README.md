@@ -62,7 +62,7 @@ J → &    K → ~    L → (    M → )
 
 ## Тестовые цепочки
 
-![alt-текст](photos\res.png)
+![alt-текст](photos/res.png)
 
 ## Вывод
 
